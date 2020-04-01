@@ -1,0 +1,38 @@
+.rp-product-card-main {
+    margin-left: 28px;
+    padding: 0;
+    width: 160px;
+    height: 274px;
+    border: solid 1px black;
+    align-items: center;
+}
+
+.rp-product-card-info-bottom {
+    padding: 2%;
+    text-align: left;
+}
+
+.rp-product-card-category {
+    font-size: 11px;
+    text-transform: uppercase;
+    // append to top
+}
+
+.rp-product-card-title {
+    height: 48px;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 17px;
+    font-weight: bold;
+    overflow-wrap: break-word;
+    // append to top
+}
+
+.rp-product-card-price {
+    font-size: 9px;
+    // append to bottom
+}
+
+// .rp-product-card-star {
+//     // append to bottom
+// }

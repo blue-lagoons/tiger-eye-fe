@@ -1,0 +1,13 @@
+.rp-card-image img{
+    padding: -2px;
+    object-fit: cover;
+    width: 158px;
+    height: 158px;
+    position: relative;
+}
+
+.rp-button-overlay{
+    position: absolute;
+    z-index: 1;
+    transform: translateX(132px);
+}

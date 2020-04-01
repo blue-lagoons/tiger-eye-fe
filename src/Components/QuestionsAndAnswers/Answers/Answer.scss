@@ -1,0 +1,35 @@
+.answer {
+    display: grid;
+    grid-template-columns: 1fr, 1fr;
+    background-color: whitesmoke;
+}
+
+.answer-name {
+    font-size: 17px;
+    margin-top: -13px;
+    font-weight: lighter;
+    color: black;
+    text-align: left;
+}
+
+.answer-body {
+    padding-top: 7px;
+    font-size: 17px;
+    color: black;
+    text-align: left;
+}
+
+.answer-btn {
+  grid-column: 1;
+  font-size: 13px;
+  padding: 3px;
+  max-width: 50%;
+  background-color: #323639;
+  border-radius: 7px;
+}
+
+.answer-btn-div {
+  background-color: whitesmoke;
+  border: 5px solid whitesmoke;
+  border-radius: 7px;
+}
